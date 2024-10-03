@@ -1,0 +1,50 @@
+body.background{
+    background-color: #800080    ;
+    color: white;
+}
+
+div.game-room{
+    background-color: #DDA0DD;
+    color: black;
+    border-radius: 20px;
+    padding-top: 36px;
+
+}
+.game-box{
+    padding: 100px 20px 10px 100px;
+}
+
+.game-room h1
+    {
+        text-align: center;
+    }
+#game {
+   text-align: center;
+   padding-top: 10px;
+}
+
+div.game-rules{
+    padding-left:34px
+}    
+
+#play-button{
+    
+        border: white;
+        background-color: #800080;
+        padding: 1% 15%;
+        border-radius: 7px;
+        color: white;
+        font-size: 22px;
+    
+}
+
+.score-board{
+    background-color: white;
+        background-color: white;
+        margin: 8%;
+        text-align: center;
+        padding: 17px 0px 3px;
+        font-size: 26px;
+        border-radius: 10px;
+
+}
